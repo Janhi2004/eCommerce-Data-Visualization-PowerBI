@@ -11,8 +11,6 @@ This project involves creating an interactive Power BI dashboard for an eCommerc
 3. [Data Cleaning and Transformation](#data-cleaning-and-transformation)
 4. [Dashboard Features](#dashboard-features)
 5. [Key Metrics](#key-metrics)
-6. [Technologies Used](#technologies-used)
-7. [Contributing](#contributing)
 
 ## Project Objectives
 
