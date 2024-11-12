@@ -55,10 +55,6 @@ Some of the key metrics tracked in the dashboard include:
 - Total Profit
 - Total Quantity
 
-## Technologies Used
-
-- **Power BI**: For creating interactive visualizations and dashboards.
-
 ## Contributing
 
 Thank you Rishabh Mishra for his guiding
