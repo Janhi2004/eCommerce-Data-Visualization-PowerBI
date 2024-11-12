@@ -55,7 +55,3 @@ Some of the key metrics tracked in the dashboard include:
 - Total Profit
 - Total Quantity
 
-## Contributing
-
-Thank you Rishabh Mishra for his guiding
-
