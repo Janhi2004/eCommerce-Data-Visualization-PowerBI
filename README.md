@@ -4,7 +4,7 @@
 
 This project involves creating an interactive Power BI dashboard for an eCommerce business. The dashboard provides insights into various aspects of the business, including sales performance, profit by category, product analytics, and customer analysis. The goal is to help stakeholders make data-driven decisions to improve business performance.
 
-![Revenue Analysis](https://github.com/Janhi2004/eCommerce-Data-Visualization-PowerBI/blob/main/E-commerce%20Dashboard.pdf)
+![Revenue Analysis](https://github.com/Janhi2004/eCommerce-Data-Visualization-PowerBI/blob/main/E-commerce%20Dashboard.jpg)
 
 ## Table of Contents
 
